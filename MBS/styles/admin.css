@@ -1,0 +1,35 @@
+.adminHome{
+	width: 100%;
+	padding: 20px;
+	background: #fff;
+}
+.adminHome ul li{
+	display: inline-block;
+	text-decoration: none;
+	
+}
+.adminHome ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	background: #ccc;
+}
+.adminHome ul li .active{
+	background: blue;
+}
+.adminContent{
+	width: 90%;
+	margin: 0px auto;
+	padding-top: 15px;
+}
+table{
+	width: 100%;
+}
+th{
+	border: 1px solid #ccc;
+	height: 30px;
+}
+td{
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	height: 30px;
+}

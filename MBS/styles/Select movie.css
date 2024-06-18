@@ -1,0 +1,152 @@
+img.Jwick{
+    width: 100%;
+    filter:brightness(50%);
+    position: relative;
+    bottom: 20px;
+}
+div.nowShow{
+    color: #fff;
+    margin-left: 40px;
+    position: relative;
+    bottom: 190px;
+    border: solid 1px rgb(27, 27, 73);
+    background-color:rgb(27, 27, 73) ;
+    width:150px;
+    text-align: center;  
+}
+h1.mtitle{
+    color: #fff;
+    font-size: 50px;
+    margin-left: 40px;
+    position: relative;
+    bottom: 180px;
+}
+p.ratings{
+    color: #d2d2d2;
+    margin-left: 40px;
+    position: relative;
+    bottom: 170px;;
+}
+a.ytbLink{
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+    bottom: 250px;
+    left:1100px;
+}
+a.ytbLink:hover{
+    color: #f0007c;
+}
+a.Btik{
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+    bottom: 270px;
+    left:1150px;
+}
+a.Btik:hover{
+    color: #f0007c;
+}
+p.place{
+    color: #fff;
+    margin-left: 40px;
+    position: relative;
+    bottom: 140px;
+    font-size: 20px;
+}
+hr.hr1{
+    color: #d2d2d2;
+    position: relative;
+    bottom: 130px;
+    filter: brightness(60%);
+
+}
+div.pglink{
+    position: relative;
+    left:88%;
+    top:795px;
+    z-index: 1;
+}
+a.pglink{
+    color: #fff;
+    text-decoration: none;
+}
+a.pglink:hover{
+    color: #f0007c;
+}
+div.cinemas{
+    position: relative;
+    bottom: 100px;
+    margin-left: 40px;
+}
+hr.hr2{
+    position: relative;
+    bottom:75px;
+    filter: brightness(60%);
+}
+p.stry{
+    color: #fff;
+    font-size: 50px;
+    position: relative;
+    bottom: 50px;
+    margin-left: 40px;
+}
+p.story{
+    color: #dad9d9;
+    font-size: 10px;
+    margin-left: 40px;
+    position: relative;
+    bottom: 20px;
+}
+p.genre{
+    color: #fff;
+    margin-left: 40px;
+    position: relative;
+    top:20px;
+}
+hr.hr3{
+    filter: brightness(60%);
+    position: relative;
+    top:10px;
+}
+hr.hr4{
+    filter: brightness(60%);
+    position: relative;
+    top:30px;
+}
+p.cst{
+    color: #fff;
+    font-size: 40px;
+    position: relative;
+    margin-left: 40px;
+    top:50px;
+}
+.cast{
+    position: relative;
+    top:60px;
+    margin-left: 40px;
+}
+hr.hr5{
+    filter: brightness(60%);
+    position: relative;
+    top:80px;
+}
+.btk{
+    position: relative;
+    margin-left: 40px;
+    top:435px;
+    z-index: 1;
+    color: #fff;
+    background-color: rgb(0, 0, 132);
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+.btk:hover{
+    color: #ffffff;
+    background-color: #f0007c;
+    transition: all 0.1s linear;
+}
+div.f{
+    margin-top: -300px;
+}

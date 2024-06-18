@@ -1,0 +1,22 @@
+.cast3{
+    width:450px;
+    margin-left: 40px;
+    position: relative;
+    top:60px;
+}
+.btk3{
+    position: relative;
+    margin-left: 40px;
+    top:400px;
+    z-index: 1;
+    color: #fff;
+    background-color: rgb(0, 0, 132);
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+.btk3:hover{
+    color: #ffffff;
+    background-color: #f0007c;
+    transition: all 0.1s linear;
+}

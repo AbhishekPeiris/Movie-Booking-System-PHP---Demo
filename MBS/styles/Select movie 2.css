@@ -1,0 +1,19 @@
+
+img.avt2{
+    width: 100%;
+    filter:brightness(50%);
+    position: relative;
+    bottom: 20px;
+}
+div.pglink2{
+    position: relative;
+    top:890px;
+    left: 88%;
+    z-index: 1;
+}
+.cast2{
+    width:400px;
+    margin-left: 40px;
+    position: relative;
+    top:55px;
+}
